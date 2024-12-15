@@ -1,0 +1,16 @@
+D:\Projects\VS\DodgeBallApplication\DodgeBallApplication\bin\Debug\net6.0\DodgeBallApplication.exe
+D:\Projects\VS\DodgeBallApplication\DodgeBallApplication\bin\Debug\net6.0\DodgeBallApplication.deps.json
+D:\Projects\VS\DodgeBallApplication\DodgeBallApplication\bin\Debug\net6.0\DodgeBallApplication.runtimeconfig.json
+D:\Projects\VS\DodgeBallApplication\DodgeBallApplication\bin\Debug\net6.0\DodgeBallApplication.dll
+D:\Projects\VS\DodgeBallApplication\DodgeBallApplication\bin\Debug\net6.0\DodgeBallApplication.pdb
+D:\Projects\VS\DodgeBallApplication\DodgeBallApplication\obj\Debug\net6.0\DodgeBallApplication.csproj.AssemblyReference.cache
+D:\Projects\VS\DodgeBallApplication\DodgeBallApplication\obj\Debug\net6.0\DodgeBallApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS\DodgeBallApplication\DodgeBallApplication\obj\Debug\net6.0\DodgeBallApplication.AssemblyInfoInputs.cache
+D:\Projects\VS\DodgeBallApplication\DodgeBallApplication\obj\Debug\net6.0\DodgeBallApplication.AssemblyInfo.cs
+D:\Projects\VS\DodgeBallApplication\DodgeBallApplication\obj\Debug\net6.0\DodgeBallApplication.csproj.CoreCompileInputs.cache
+D:\Projects\VS\DodgeBallApplication\DodgeBallApplication\obj\Debug\net6.0\DodgeBallApplication.dll
+D:\Projects\VS\DodgeBallApplication\DodgeBallApplication\obj\Debug\net6.0\refint\DodgeBallApplication.dll
+D:\Projects\VS\DodgeBallApplication\DodgeBallApplication\obj\Debug\net6.0\DodgeBallApplication.pdb
+D:\Projects\VS\DodgeBallApplication\DodgeBallApplication\obj\Debug\net6.0\DodgeBallApplication.genruntimeconfig.cache
+D:\Projects\VS\DodgeBallApplication\DodgeBallApplication\obj\Debug\net6.0\ref\DodgeBallApplication.dll
+D:\Projects\VS\DodgeBallApplication\DodgeBallApplication\bin\Debug\net6.0\Files\input.json
